@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kittipoom (Ochi)
-Hello my name is Kittipoom Samranjai you can call me **Ochi**
+Hello my name is **Kittipoom Samranjai** you can call me **Ochi**
 
 I am currently enrolled in a Bachelor's degree program in faculty of informatic , majoring in **Software Engineering** at Burpha University. and I enjoy building systems from scratch and understanding how things work 
 
@@ -16,52 +16,28 @@ I am currently enrolled in a Bachelor's degree program in faculty of informatic 
 
 ---
 
+## 💡 Skill
+- 
+
+---
+
 ## 🛠 Tech Stack
 
-**Languages**
-- C++
-- C
-- Python
-- HTML
-- CSS
-- Javascript
+- Programming 
+|Programming Language|Description|Types Of Project|Link|
+|--------------------|-----------|----------------|----|
+|python              |_This project made for someone who want to visual data and it can be use in so manny purpose_ \ _โครงงานคอมพิวเตอร์ เกี่ยวกับการจัดการปัญหาวัยรุ่น_|**Software** \ **Video Game**|[VisGuiThon](https://github.com/ochisrj/VisGuithon) \ [School-Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git)|
+|C++                 |_ROSE is game engine project using C++ and OPENGL with interactive user interface by using library IMGUI._\ _test imgui with opengl for my game project_|**Game Engine**|[ROSE](https://github.com/ochisrj/ROSE.git)\[Nor-Game](https://github.com/ochisrj/Nor-game.git)|
+|HTML,CSS            |_WebPortF is a website that i made to show all of my project that i made all over the time_|**Website**|[Web-PortF](https://github.com/ochisrj/Web-PortF.git)|
 
-**Graphics API**
-- OpenGL (learning)
-- Vulkan (future goal)
+- Other Framework and API 
+> `Opengl`
+> `CMake`
+> 
 
-**Tools**
-- Git
-- MSYS
-- VS Code
-- Visual Studio Code 2022
-- CMake
-
----
-
-## 📚 Currently Learning
-
-- Computer Graphics
-- Rendering Pipelines
-- Game Physics
-- Web development
-
----
-
-## 🎯 Goals
-
-- Build my own **2D/3D Game Engine**
-- Contribute to **open source**
-- Become a **graphics or systems engineer**
-- Work on **high-performance software**
-
----
-
-## 📂 Featured Projects
-
--
-
-
+## Futured Work
+- 
+- 
 
 
 
