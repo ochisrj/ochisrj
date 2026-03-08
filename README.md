@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Kittipoom (Ochi)
-
-🎓 I am currently enrolled in a Bachelor's degree program in faculty of informatic , majoring in **Software Engineering**.
-
-I'm a passionate developer interested in **low-level software**, **game technology**, and **Web-development**.
-
-I enjoy building systems from scratch and understanding how things work under the hood — from rendering pipelines to operating systems.
+I am currently enrolled in a Bachelor's degree program in faculty of informatic , majoring in **Software Engineering**. and I enjoy building systems from scratch and understanding how things work under the hood — from rendering pipelines to operating systems.
 
 ---
 
@@ -22,7 +17,6 @@ I enjoy building systems from scratch and understanding how things work under th
 ## 🛠 Tech Stack
 
 **Languages**
-
 - C++
 - C
 - Python
@@ -30,16 +24,15 @@ I enjoy building systems from scratch and understanding how things work under th
 - CSS
 - Javascript
 
-**Graphics**
-
+**Graphics API**
 - OpenGL (learning)
 - Vulkan (future goal)
 
 **Tools**
-
 - Git
 - MSYS
 - VS Code
+- Visual Studio Code 2022
 - CMake
 
 ---
@@ -49,6 +42,7 @@ I enjoy building systems from scratch and understanding how things work under th
 - Computer Graphics
 - Rendering Pipelines
 - Game Physics
+- Web development
 
 ---
 
