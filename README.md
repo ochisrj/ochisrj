@@ -41,5 +41,8 @@ I am currently enrolled in a Bachelor's degree program in faculty of informatic 
 
 
 
-
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
