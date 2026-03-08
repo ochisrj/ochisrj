@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kittipoom (Ochi)
-Hello my name is Kittipoom Samranjai you can call me **Ochi**\
+Hello my name is Kittipoom Samranjai you can call me **Ochi**
 
 I am currently enrolled in a Bachelor's degree program in faculty of informatic , majoring in **Software Engineering** at Burpha University. and I enjoy building systems from scratch and understanding how things work 
 
