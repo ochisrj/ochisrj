@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Kittiphum (ochisrj)
+# 👋 Hi, I'm Kittipoom (Ochi)
 
-🎓 Software Engineering Student  
-🇹🇭 Thailand  
+🎓 I am currently enrolled in a Bachelor's degree program in faculty of informatic , majoring in **Software Engineering**.
 
-I'm a passionate developer interested in **low-level software**, **game technology**, and **cybersecurity**.
+I'm a passionate developer interested in **low-level software**, **game technology**, and **Web-development**.
 
 I enjoy building systems from scratch and understanding how things work under the hood — from rendering pipelines to operating systems.
 
@@ -13,7 +12,7 @@ I enjoy building systems from scratch and understanding how things work under th
 
 - Game Engine Development
 - Graphics Programming
-- Cybersecurity
+- Web-developing
 - Low-level Programming
 - Mathematics for Computer Graphics
 - Building Software from Scratch
@@ -25,9 +24,11 @@ I enjoy building systems from scratch and understanding how things work under th
 **Languages**
 
 - C++
-- Python
-- JavaScript
 - C
+- Python
+- HTML
+- CSS
+- Javascript
 
 **Graphics**
 
@@ -37,7 +38,7 @@ I enjoy building systems from scratch and understanding how things work under th
 **Tools**
 
 - Git
-- Linux
+- MSYS
 - VS Code
 - CMake
 
@@ -47,9 +48,7 @@ I enjoy building systems from scratch and understanding how things work under th
 
 - Computer Graphics
 - Rendering Pipelines
-- Data Structures & Algorithms
 - Game Physics
-- Cybersecurity Fundamentals
 
 ---
 
@@ -64,41 +63,11 @@ I enjoy building systems from scratch and understanding how things work under th
 
 ## 📂 Featured Projects
 
-### 🔹 Math Toolkit (C++ + ImGui)
-A small desktop application for mathematical tools including:
-- Basic arithmetic
-- Graph plotting
-- Currency conversion
+-
 
-Goal: practice UI rendering and math visualization.
 
----
 
-### 🔹 Minimal Game Engine
-A personal project to understand how game engines work internally.
 
-Features planned:
-- Window system
-- Rendering pipeline
-- Scene management
-- Physics simulation
 
----
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ochisrj&show_icons=true&theme=tokyonight)
-
----
-
-## 💡 Philosophy
-
-> "Don't just use tools — understand how they are built."
-
-I believe great engineers understand the **fundamentals** behind the technology they use.
-
----
-
-## 📫 Contact
-Email: kittipoom.samranjai@gmail.com
-GitHub: https://github.com/ochisrj
