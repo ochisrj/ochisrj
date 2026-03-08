@@ -23,7 +23,6 @@ I am currently enrolled in a Bachelor's degree program in faculty of informatic 
 
 ## 🛠 Tech Stack
 
-- Programming \
 |Programming Language|Description|Types Of Project|Link|
 | ------------------ | --------- | -------------- | -- |
 |python              |_This project made for someone who want to visual data and it can be use in so manny purpose_ \ _โครงงานคอมพิวเตอร์ เกี่ยวกับการจัดการปัญหาวัยรุ่น_|**Software** \ **Video Game**|[VisGuiThon](https://github.com/ochisrj/VisGuithon) \ [School-Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git)|
