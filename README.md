@@ -1,36 +1,73 @@
 # 👋 Hi, I'm Kittipoom (Ochi)
-Hello my name is **Kittipoom Samranjai** you can call me **Ochi**
 
-I am currently enrolled in a Bachelor's degree program in faculty of informatic , majoring in **Software Engineering** at Burpha University. and I enjoy building systems from scratch and understanding how things work 
+Hello! My name is **Kittipoom Samranjai**, but you can call me **Ochi**.
 
----
+I am currently pursuing a **Bachelor's degree in Software Engineering** at **Burapha University** (Faculty of Informatics).
 
-## 🚀 Interests
+I enjoy **building software systems from scratch** and exploring how technology works at a deeper level — especially in areas like **game engines, graphics programming, and low-level development**.
 
-- Game Engine Development
-- Graphics Programming
-- Web-developing
-- Low-level Programming
-- Mathematics for Computer Graphics
-- Building Software from Scratch
+My goal is to become a developer who not only uses tools, but truly **understands how they are built internally**.
 
 ---
 
-## 💡 Skill
-- 
+# 🚀 Interests
+
+* Game Engine Development
+* Graphics Programming
+* Web Development
+* Low-level Programming (C/C++)
+* Mathematics for Computer Graphics
+* Building Software from Scratch
 
 ---
 
-## 🛠 Tech Stack
+# 💡 Skills
 
-|Programming Language|Description|Types Of Project|Link|
-| ------------------ | --------- | -------------- | -- |
-|python              | - _This project made for someone who want to visual data and it can be use in so manny purpose_ <p> - _โครงงานคอมพิวเตอร์ เกี่ยวกับการจัดการปัญหาวัยรุ่น_</p> |**Software** / **Video Game**|[VisGuiThon](https://github.com/ochisrj/VisGuithon) , [School-Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git)|
-|C++                 | - _ROSE is game engine project using C++ and OPENGL with interactive user interface by using library IMGUI._ <p> - _test imgui with opengl for my game project_ </p>|**Game Engine**|[ROSE](https://github.com/ochisrj/ROSE.git) , [Nor-Game](https://github.com/ochisrj/Nor-game.git)|
-|html,css            |_WebPortF is a website that i made to show all of my project that i made all over the time_|**Website**|[Web-PortF](https://github.com/ochisrj/Web-PortF.git).|
+* Object-Oriented Programming
+* Basic Game Engine Architecture
+* OpenGL Graphics Programming (learning)
+* GUI Programming with ImGui
+* Git & Version Control
+* Software Project Structure
 
-- Other Framework and API 
-> `Opengl`
-> `CMake`
-> `ImGui`
+---
 
+# 🛠 Tech Stack
+
+| Programming Language | Description                                                                                                                               | Type of Project | Repository                                                                                                                      |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Python**           | Data visualization tool and educational projects. Includes a visualization tool and a school project about solving teenage social issues. | Software / Game | [VisGuiThon](https://github.com/ochisrj/VisGuithon) • [School-Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git) |
+| **C++**              | Experimental **game engine project** built with OpenGL and ImGui. Focused on understanding rendering systems and engine architecture.     | Game Engine     | [ROSE](https://github.com/ochisrj/ROSE.git) • [Nor-Game](https://github.com/ochisrj/Nor-game.git)                               |
+| **HTML / CSS**       | Personal portfolio website that showcases all my projects and development journey.                                                        | Website         | [Web-PortF](https://github.com/ochisrj/Web-PortF.git)                                                                           |
+
+---
+
+# 🔧 Other Frameworks & APIs
+
+`OpenGL` • `ImGui` • `CMake` • `Git`
+
+---
+
+# 🎯 Current Focus
+
+Currently I am focusing on:
+
+* Learning **Computer Graphics**
+* Developing my **Game Engine (ROSE)**
+* Improving my **C++ programming skills**
+* Studying **Data Structures and Algorithms**
+
+---
+
+# 📌 Future Goals
+
+* Build a fully functional **game engine**
+* Learn **Vulkan graphics API**
+* Contribute to **open source projects**
+* Become a **graphics or systems engineer**
+
+---
+
+# 📫 Contact
+
+GitHub: https://github.com/ochisrj
