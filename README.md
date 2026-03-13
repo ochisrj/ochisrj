@@ -10,7 +10,7 @@ I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty 
 |Type Of Project|Programming Language|Repositories|
 |---------|---------|-------|
 |Website|HTML,CSS,JAVASCRIPT,PHP|[Web-PortF](https://github.com/ochisrj/Web-PortF)|
-|Software|C++/C,Python|[VisGuithon](https://github.com/ochisrj/VisGuithon), \ [ROSE](https://github.com/ochisrj/ROSE.git), \ [School Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git)|
+|Software|C++/C,Python|[VisGuithon](https://github.com/ochisrj/VisGuithon), [ROSE](https://github.com/ochisrj/ROSE.git), [School Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git)|
 
 ---
 
@@ -24,5 +24,5 @@ I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty 
 ---
 
 # 📫 Contact
-Instragram : [https://www.instagram.com/ochisrj] \
-Email : [kittipoom.samranjai@gmail.com]
+Instragram : https://www.instagram.com/ochisrj \
+Email : kittipoom.samranjai@gmail.com
