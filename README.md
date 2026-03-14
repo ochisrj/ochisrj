@@ -7,10 +7,10 @@ I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty 
 
 
 # 🛠 Tech Stack
-|Type Of Project|Programming Language|Repositories|
+|Programming Language|Skill Description|Repositories|
 |---------|---------|-------|
-|**Website**| _HTML , CSS , JAVASCRIPT , PHP_ |[Web-PortF](https://github.com/ochisrj/Web-PortF)|
-|**Software**| _C++/C , Python_ |[VisGuithon](https://github.com/ochisrj/VisGuithon) , [ROSE](https://github.com/ochisrj/ROSE.git) , [School Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git)|
+|**HTML , CSS**| working on my website |[Web-PortF](https://github.com/ochisrj/Web-PortF)|
+|**C/C++**| my software skill |[VisGuithon](https://github.com/ochisrj/VisGuithon) , [ROSE](https://github.com/ochisrj/ROSE.git) , [School Harmony](https://github.com/ochisrj/Demo-School-Harmony-game.git)|
 
 ---
 
