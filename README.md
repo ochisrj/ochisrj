@@ -16,7 +16,7 @@ I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty 
 
 # 🔧 Tools & Framework
 - Software : 
-`Visual Studio 2022`,`Visual Studio Code`,`Terminal`,`nvim`
+`Visual Studio 2022`,`Visual Studio Code`,`nvim`
 - Frameworks : 
 `React`
 - Library : 
