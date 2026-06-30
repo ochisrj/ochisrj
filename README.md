@@ -21,8 +21,3 @@ I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty 
 `React`
 - Library : 
 `Opengl`,`Imgui`,`SDL`,`GLFW`
----
-
-# 📫 Contact
-Instragram : https://www.instagram.com/ochisrj \
-Email : kittipoom.samranjai@gmail.com
