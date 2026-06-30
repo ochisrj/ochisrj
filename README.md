@@ -20,4 +20,4 @@ I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty 
 - Frameworks : 
 `React`
 - Library : 
-`Opengl`,`Imgui`,`SDL`,`GLFW`
+`Opengl`,`Imgui`,`SDL`,`GLFW`,`GT`
