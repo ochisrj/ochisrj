@@ -11,7 +11,7 @@ I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty 
 |Programming Language|Skill Description|Repositories|
 |---------|---------|-------|
 |**HTML , CSS**| working on my website |[Web-PortF](https://github.com/ochisrj/Web-PortF)|
-|**C/C++**| use to developement high performace software| [ROSE](https://github.com/ochisrj/ROSE.git) |
+|**C/C++**| use to developement high performace software| [ROSE](https://github.com/ochisrj/Rose.git) |
 
 # 🔧 Tools & Framework
 - Software : 
