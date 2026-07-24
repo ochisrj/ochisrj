@@ -5,8 +5,6 @@ Hello! My name is **Kittipoom Samranjai**, you can call me **Ochi**.
 # 🎓 Education
 I am currently pursuing a Bachelor's degree in **Software Engineering**(Faculty of Informatics). at **Burapha University** 
 
----
-
 # 🛠 Tech Stack
 |Programming Language|Skill Description|Repositories|
 |---------|---------|-------|
