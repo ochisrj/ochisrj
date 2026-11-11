@@ -1,6 +1,6 @@
 # Introduction
 
-`Name` **Kittipoom Samranjai**, you can call me **Ochi**. 
+`Name` **Kittipoom Samranjai**, you can call me **Ochi**.\
 `Education` **Burapha University**
 
 # 🛠 Tech Stack
